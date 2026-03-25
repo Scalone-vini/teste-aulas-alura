@@ -17,3 +17,5 @@ if (idadeUsuario >= 18) {
 else {
   alert("Não pode tirar a habilitação!");
 }
+
+//usei gemini so pra me relembrar das coisas
